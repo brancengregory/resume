@@ -1,0 +1,23 @@
+{
+	"basics": {
+		"name": "Brancen Gregory",
+		"label": "Programmer, Designer, Analyst",
+		"picture": "",
+		"email": "brancengregory@gmail.com",
+		"phone": "(918) 497-7776",
+		"website": "brancengregory.com",
+		"summary": "",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Tulsa",
+			"countryCode": "US",
+			"region": "Oklahoma"
+		},
+		"profiles": [{
+			"network": "Github",
+			"username": "brancengregory",
+			"url": "https://github.com"
+		}]
+	}
+}
