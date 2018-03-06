@@ -1,7 +1,7 @@
 {
 	"basics": {
 		"name": "Brancen Gregory",
-		"label": "Programmer, Designer, Analyst",
+		"label": "Researcher, Programmer, Designer, Analyst",
 		"picture": "",
 		"email": "brancengregory@gmail.com",
 		"phone": "(918) 497-7776",
@@ -14,21 +14,28 @@
 			"countryCode": "US",
 			"region": "Oklahoma"
 		},
-		"profiles": [{
-			"network": "Github",
-			"username": "brancengregory",
-			"url": "https://github.com"
-		}]
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "brancengregory",
+				"url": "https://github.com"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "brancengregory",
+				"url": "https://linkedin.com"
+			}
+		]
 	},
 	"work": [
 		{
-			"name": "",
-			"location": "",
+			"name": "Muskogee (Creek) Nation Department of Health",
+			"location": "Sapulpa, OK",
 			"description": "",
-			"position": "",
+			"position": "Data Analyst - SBIRT",
 			"url": "",
-			"startDate": "",
-			"endDate": "",
+			"startDate": "01/2018",
+			"endDate": "Current",
 			"summary": "",
 			"highlights": [
 				"",
@@ -36,7 +43,7 @@
 			]
 		},
 		{
-			
+			"name": "University of Tulsa School of Law"
 		}
 	],
 	"volunteer": [
@@ -45,7 +52,7 @@
 			"position": "Member/Organizer",
 			"url": "https://greencountrydsa.github.io",
 			"startDate": "2017-12-15",
-			"endDate": "",
+			"endDate": "Current",
 			"summary": "",
 			"highlights": [
 				"Created and manage blog"
@@ -57,30 +64,13 @@
 			"institution": "University of Tulsa",
 			"area": "Economics",
 			"studyType": "Bachelor of Science",
-			"startDate": "",
-			"endDate": "",
+			"startDate": "08/2012",
+			"endDate": "05/2017",
 			"gpa": "",
 			"courses": [
-				"",
-				""
+				"Statistics for Engineers",
+				"Econometrics"
 			]
-		}
-	],
-	"awards": [
-		{
-			"title": "",
-			"date": "",
-			"awarder": "",
-			"summary": ""
-		}
-	],
-	"publications": [
-		{
-			"name": "",
-			"publisher": "",
-			"releaseDate": "",
-			"url": "",
-			"sumamry": ""
 		}
 	],
 	"skills": [
@@ -117,24 +107,22 @@
 	],
 	"projects": [
 		{
-			"name": "Miss Direction",
-			"description": "A mapping engine that misguides you",
+			"name": "CDC Vital Statistics",
+			"description": "R scripts to parse and analyze mortality data",
 			"highlights": [ 
-				"Won award at AIHacks 2016",
-				"Built by all women team of newbie programmers",
-				"Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+				"Produced analysis of alcohol related mortality by race"
 			],
 			"keywords": [
-				"GoogleMaps", "Chrome Extension", "Javascript"
+				"CDC", "Vital Statistics", "Mortality", "R", "Health Data"
 			],
-			"startDate": "2016-08-24",
-			"endDate": "2016-08-24", 
-			"url": "missdirection.example.com",
+			"startDate": "2018-02",
+			"endDate": "Current", 
+			"url": "https://github.com/brancengregory/cdc-mortality.git",
 			"roles": [ 
-				"Team lead", "Designer"
+				"Analyst"
 			],
-			"entity": "Smoogle",
-			"type": "application"
+			"entity": "Muskogee (Creek) Nation",
+			"type": "toolkit"
 		}
 	],
 	"meta": {
